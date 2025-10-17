@@ -1,5 +1,5 @@
 ## 🤖 Projeto PBL – Fase 6: Rede Neural
-**Curso:** [Insira aqui o nome do curso – FIAP]  
+**Curso:** – FIAP]  
 **Disciplina:** Inteligência Artificial / Machine Learning  
 **Repositório:** `RM561352---RM564440---RM566069---RM-566336-A`  
 
@@ -78,8 +78,6 @@ O notebook está dividido nas seguintes seções:
 Assista à explicação e demonstração completa do projeto:  
 📺 **[Clique aqui para assistir no YouTube](https://youtu.be/E8FqatqFpQI)**  
 
-> O vídeo está configurado como **“Não listado”**, conforme as orientações da FIAP.
-
 ---
 
 ### 🧾 Observações Finais  
@@ -87,12 +85,12 @@ Assista à explicação e demonstração completa do projeto:
 - Todas as células do notebook estão **executadas e comentadas**.  
 - O nome do arquivo segue o formato exigido pela FIAP:  
   ```
-  NomeCompleto_rmXXXXX_pbl_fase6.ipynb
+  tarefa 1.ipynb
+    tarefa 2.ipynb
+
   ```  
-- O repositório é **público apenas para fins de correção**, e **não serão realizados novos commits após a data de entrega**.  
+- O repositório é **público apenas para fins de correção**.  
 
 ---
 
-### 👨‍🏫 Contato  
 
-Para dúvidas ou esclarecimentos, entre em contato com o grupo pelos e-mails institucionais da FIAP.  
